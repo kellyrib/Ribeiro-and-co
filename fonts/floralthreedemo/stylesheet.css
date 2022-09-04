@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Raptor Kill';
+    src: url('RaptorKill.eot');
+    src: url('RaptorKill.eot?#iefix') format('embedded-opentype'),
+        url('RaptorKill.woff') format('woff'),
+        url('RaptorKill.ttf') format('truetype'),
+        url('RaptorKill.svg#RaptorKill') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Floral Three Demo';
+    src: url('FloralThreeDemo.eot');
+    src: url('FloralThreeDemo.eot?#iefix') format('embedded-opentype'),
+        url('FloralThreeDemo.woff') format('woff'),
+        url('FloralThreeDemo.ttf') format('truetype'),
+        url('FloralThreeDemo.svg#FloralThreeDemo') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
